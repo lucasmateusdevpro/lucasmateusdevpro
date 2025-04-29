@@ -30,3 +30,7 @@ Git + Git Hub<img src="https://miro.medium.com/v2/resize:fit:732/1*dJVKludHgUgSF
  <a href="www.linkedin.com/in/lucasmateusdevpro"><img src="https://images.rawpixel.com/image_png_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvdjk4Mi1kNS0xMF8xLnBuZw.png" alt="likedin" width="50px">
  </a>
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmateusdevpro)](https://github.com/anuraghazra/github-readme-stats)
+
