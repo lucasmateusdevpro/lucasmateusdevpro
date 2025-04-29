@@ -33,4 +33,5 @@ Git + Git Hub<img src="https://miro.medium.com/v2/resize:fit:732/1*dJVKludHgUgSF
 ---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmateusdevpro)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmateusdevpro&hide_progress=true)
 
